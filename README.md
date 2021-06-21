@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://github.com/Dheerajmadhukar/Lilly" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Lilly&theme=dracula" />
 </a>
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Dheerajmadhukar/fdns" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=fdns&theme=dracula" />
 </a>
+-->
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
