@@ -8,7 +8,6 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/dheerajtechnolegends/" title="LinkedIn Profile"><img width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
-  <!--<code><a href="https://www.hackerrank.com/zsssansska" title="HackerRank Profile"><img width="22" src="https://github.com/zdsd-anka/zumdsddsdu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>-->
   <code><a href="https://twitter.com/Dheerajmadhukar/" title="Twitter Profile"><img width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter-icon.png"> Twitter</a></code>
   <code><a href="https://www.instagram.com/me_dheeraj/" title="Instagram Profile"><img width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg"> Instagram</a></code>
 </h5>
