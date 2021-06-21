@@ -27,3 +27,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Dheerajmadhukar/Lilly" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Lilly&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/subzzZ" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=subzzZ&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/GitApp" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=GitApp&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/4-ZERO-3" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=4-ZERO-3&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/back-me-up" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=BB-Hunt-A-Day&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/BB-Hunt-A-Day" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=BB-Hunt-A-Day&theme=dracula" />
+</a>
+<a href="https://github.com/Dheerajmadhukar/fdns" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=fdns&theme=dracula" />
+</a>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
