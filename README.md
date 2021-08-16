@@ -58,6 +58,19 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=fdns&theme=dracula" />
 </a>
 -->
+<h2>Live Sessions [ Bug Bounty ] </h2>
+
+<a href="https://www.youtube.com/watch?v=oiZYSYI2WQE">HTTP/2 Request Smuggling Bash Automation</a><br>
+<a href="https://www.youtube.com/watch?v=GwR-_Ia1ML8">Subdomain Enum On Live Target 'rockstargames.com' Bash Automation</a><br>
+<a href="https://www.youtube.com/watch?v=wGX3HwCTpKE">Content Discovery FUFF in detail + Live Bug Bounty Automation</a><br>
+<a href="https://www.youtube.com/watch?v=jL0_uyqIbAg">Live Bug hunting Chaining Bugs (SSRF + Blind RCE + DNS Exfiltration)</a><br>
+
+<h2>Write-ups</h2>
+
+<a href="https://infosecwriteups.com/do-it-asap-9d1847472bc8">Full ATO [Account Takeover] $$$</a><br>
+<a href="https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1">Android insecure IPC leads to Full Account Takeover via IDOR</a><br>
+<a href="https://infosecwriteups.com/dont-stop-at-one-bug-d3c56806b5">Android - Chaining Vulnerabilities [ Local File Steal, Java Script injection, Open Redirect ]</a><br>
+
 <div align="center">
 
 ### Show ❤️ by starring some of the repositories!
