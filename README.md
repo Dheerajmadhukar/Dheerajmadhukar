@@ -65,6 +65,9 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=wGX3HwCTpKE">Content Discovery FUFF in detail + Live Bug Bounty Automation</a><br>
 <a href="https://www.youtube.com/watch?v=jL0_uyqIbAg">Live Bug hunting Chaining Bugs (SSRF + Blind RCE + DNS Exfiltration)</a><br>
 
+<h2>Live Sessions [ Android Forensics ] </h2>
+<a href="https://www.youtube.com/watch?v=SIoCXOxsvVE&t=2347s">Dive into Android Forensics for Beginner Powered by Google Developers</a><br>
+
 <h2>Write-ups</h2>
 
 <a href="https://infosecwriteups.com/do-it-asap-9d1847472bc8">Full ATO [Account Takeover] $$$</a><br>
