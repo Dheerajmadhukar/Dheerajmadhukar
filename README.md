@@ -58,8 +58,6 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=fdns&theme=dracula" />
 </a>
 -->
-- 🔭 I’m currently working on
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=karma_v1&show_owner=true)](https://github.com/Dheerajmadhukar/karma_v1)
 
 <h2>Live Sessions [ Bug Bounty ] </h2>
 
@@ -77,7 +75,10 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1">Android insecure IPC leads to Full Account Takeover via IDOR</a><br>
 <a href="https://infosecwriteups.com/dont-stop-at-one-bug-d3c56806b5">Android - Chaining Vulnerabilities [ Local File Steal, Java Script injection, Open Redirect ]</a><br>
 
-<div align="center">
+- 🔭 I’m currently working on
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=karma_v1&show_owner=true)](https://github.com/Dheerajmadhukar/karma_v1)
 
-### Show ❤️ by starring some of the repositories!
+<div align="center">
+Show ❤️ by starring some of the repositories!<br>
 </div>
