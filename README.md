@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=karma_v1&show_owner=true)](https://github.com/Dheerajmadhukar/karma_v1)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=karma_v2&show_owner=true)](https://github.com/Dheerajmadhukar/karma_v2)
 
 <div align="center">
 Show ❤️ by starring some of the repositories!<br>
