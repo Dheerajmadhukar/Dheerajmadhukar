@@ -69,6 +69,12 @@ Here are some ideas to get you started:
 <h2>Live Sessions [ Android Forensics ] </h2>
 <a href="https://www.youtube.com/watch?v=SIoCXOxsvVE&t=2347s">Dive into Android Forensics for Beginner Powered by Google Developers</a><br>
 
+<h2>Live Sessions [ Prototype Pollution Vulnerability Chaining ] </h2>
+<a href="https://youtu.be/pjPz-12LYQI">Prototype-Pollution-Lab to chain the vulnerabilities between multiple accounts.</a><br>
+- Prototype Pollution Lab Access
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Prototype-Pollution-Lab_me_dheeraj&show_owner=true)](https://github.com/Dheerajmadhukar/Prototype-Pollution-Lab_me_dheeraj)
+
 <h2>Write-ups</h2>
 
 <a href="https://infosecwriteups.com/do-it-asap-9d1847472bc8">Full ATO [Account Takeover] $$$</a><br>
