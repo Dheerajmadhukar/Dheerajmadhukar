@@ -14,8 +14,9 @@
 </h5>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Dheerajmadhukar&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Dheerajmadhukar&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Dheerajmadhukar&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Dheerajmadhukar&theme=dark&hide_border=true" width = 400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajmadhukar&theme=dark&hide_border=true" />
 </p>
 <!--
 <p>
