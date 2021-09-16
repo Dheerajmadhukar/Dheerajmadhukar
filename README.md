@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!%20How%20you%20doin'?&center=true&size=30">
   </a>
 </h1>
-
+<h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/Dheerajmadhukar/Dheerajmadhukar/main/img/handshake.gif" height="32px"></h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/dheerajtechnolegends/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
