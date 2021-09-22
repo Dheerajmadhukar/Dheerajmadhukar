@@ -76,6 +76,9 @@ Here are some ideas to get you started:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Prototype-Pollution-Lab_me_dheeraj&show_owner=true)](https://github.com/Dheerajmadhukar/Prototype-Pollution-Lab_me_dheeraj)
 
+<h2>Upcoming Live Video Sessions [ Shodan OSINT ] </h2>
+<img src = "https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/Dheeraj%20Madhukar%20Gravity222222.png" width = 400 />
+
 <h2>Write-ups</h2>
 
 <a href="https://infosecwriteups.com/do-it-asap-9d1847472bc8">Full ATO [Account Takeover] $$$</a><br>
