@@ -60,24 +60,27 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<h2>Live Sessions [ Bug Bounty ] </h2>
+<h2>Live Sessions</h2>
 
 <a href="https://www.youtube.com/watch?v=oiZYSYI2WQE">HTTP/2 Request Smuggling Bash Automation</a><br>
 <a href="https://www.youtube.com/watch?v=GwR-_Ia1ML8">Subdomain Enum On Live Target 'rockstargames.com' Bash Automation</a><br>
 <a href="https://www.youtube.com/watch?v=wGX3HwCTpKE">Content Discovery FUFF in detail + Live Bug Bounty Automation</a><br>
 <a href="https://www.youtube.com/watch?v=jL0_uyqIbAg">Live Bug hunting Chaining Bugs (SSRF + Blind RCE + DNS Exfiltration)</a><br>
-
-<h2>Live Sessions [ Android Forensics ] </h2>
 <a href="https://www.youtube.com/watch?v=SIoCXOxsvVE&t=2347s">Dive into Android Forensics for Beginner Powered by Google Developers</a><br>
-
-<h2>Live Sessions [ Prototype Pollution Vulnerability Chaining ] </h2>
 <a href="https://youtu.be/pjPz-12LYQI">Prototype-Pollution-Lab to chain the vulnerabilities between multiple accounts.</a><br>
-- Prototype Pollution Lab Access 
+
+<h2>Public CTF/Labs</h2>
+
+-  Prototype Pollution Vulnerability Chaining
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Prototype-Pollution-Lab_me_dheeraj&show_owner=true)](https://github.com/Dheerajmadhukar/Prototype-Pollution-Lab_me_dheeraj)
 
+-  Insecure Comparison in JavaScript
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Insecure-Comparison-Lab_me_dheeraj&show_owner=true)](https://github.com/Dheerajmadhukar/Insecure-Comparison-Lab_me_dheeraj)
+
 <h2>Upcoming Live Video Sessions [ Shodan OSINT ] </h2>
-<img src = "https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/Dheeraj%20Madhukar%20Gravity222222.png" width = 400 />
+<img src = "https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/talk%20dheeraj.png" width = 400 />
 
 <h2>Write-ups</h2>
 
