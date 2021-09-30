@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 <a href="https://infosecwriteups.com/do-it-asap-9d1847472bc8">Full ATO [Account Takeover] $$$</a><br>
 <a href="https://medium.com/@dheerajkmadhukar/journey-from-low-to-critical-bug-2ab98db2eec1">Android insecure IPC leads to Full Account Takeover via IDOR</a><br>
 <a href="https://infosecwriteups.com/dont-stop-at-one-bug-d3c56806b5">Android - Chaining Vulnerabilities [ Local File Steal, Java Script injection, Open Redirect ]</a><br>
+<a href="https://medium.com/@dheerajkmadhukar/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac">Bypass of biometrics & password security functionality for Android</a><br>
 
 - 🔭 I’m currently working on
  
