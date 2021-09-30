@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=jL0_uyqIbAg">Live Bug hunting Chaining Bugs (SSRF + Blind RCE + DNS Exfiltration)</a><br>
 <a href="https://www.youtube.com/watch?v=SIoCXOxsvVE&t=2347s">Dive into Android Forensics for Beginner Powered by Google Developers</a><br>
 <a href="https://youtu.be/pjPz-12LYQI">Prototype-Pollution-Lab to chain the vulnerabilities between multiple accounts.</a><br>
+<a href="https://www.youtube.com/watch?v=MeNPvBQbn-k&t=3786s">Android UXSS, Local File Steal, OpenRedirect [null Ahmedabad Meet]</a><br>
 
 <h2>Public CTF/Labs</h2>
 
