@@ -96,5 +96,10 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=karma_v2&show_owner=true)](https://github.com/Dheerajmadhukar/karma_v2)
 
 <div align="center">
-Show ❤️ by starring some of the repositories!<br>
+Show ❤️ :)(:<br>
+
+Kindly Nominate me as a @github Stars !
+If you like my contribution & brings you happy feelings, please show your support !
+https://stars.github.com/nominate/
+
 </div>
