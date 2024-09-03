@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dheerajmadhukar&repo=Insecure-Comparison-Lab_me_dheeraj&show_owner=true)](https://github.com/Dheerajmadhukar/Insecure-Comparison-Lab_me_dheeraj)
 
-<h2>Upcoming Sessions [ Shodan OSINT ] </h2>
-<img src = "https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/talk%20dheeraj.png" width = 400 />
+<!--<h2>Upcoming Sessions [ Shodan OSINT ] </h2>
+<img src = "https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/talk%20dheeraj.png" width = 400 /> -->
 
 <h2>Write-ups</h2>
 
